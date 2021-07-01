@@ -6,16 +6,16 @@
 
 **WildBeast** é um site criado para testar as propriedades do CSS Grid Layout, todo o site é responsivo.
   
-O site **Vagalumes** é um projeto de website criado no curso CSS Grid Layout da Origamid.
+O site **WildBeast** é um projeto de website criado no curso CSS Grid Layout da Origamid.
 
 ---------
 ---------
 
 
 ## 🖥️ Demonstração
-[![Bikcraft](screencapture-vagalumes-vercel-app-2021-06-26-17_38_44.png "Clique para acessar o projeto")](https://devmagno.github.io/bikcraft/views/index.html "Clique para acessar o projeto")  
+[![WildBeast](demo-wildbeast.png "Clique para acessar o projeto")](https://rodrigofonsecag.github.io/WildBeast/ "Clique para acessar o projeto")  
 
-## >>**[Clique aqui para acessar a demonstração do website](http://vagalumes.vercel.app/)**<<
+## >>**[Clique aqui para acessar a demonstração do website](https://rodrigofonsecag.github.io/WildBeast/)**<<
 
 
 ----------
