@@ -15,7 +15,7 @@ O site **WildBeast** é um projeto de website criado no curso CSS Grid Layout da
 ## 🖥️ Demonstração
 [![WildBeast](demo-wildbeast.png "Clique para acessar o projeto")](https://rodrigofonsecag.github.io/WildBeast/ "Clique para acessar o projeto")  
 
-[![WildBeast](demo-responsive.png align=center)
+<img align="center" src="demo-responsive.png">
 
 ## >>**[Clique aqui para acessar a demonstração do website](https://rodrigofonsecag.github.io/WildBeast/)**<<
 
